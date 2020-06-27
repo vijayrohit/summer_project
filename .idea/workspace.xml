@@ -16,186 +16,57 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b30cd96-ef03-4123-9940-83c415d52c36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dogger/css/aos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap-datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/mediaelementplayer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/backup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/Flaticon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/Flaticon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/Flaticon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/_flaticon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/flaticon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/font/flaticon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/flaticon/license/license.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/Read Me.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/demo-files/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/demo-files/demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/fonts/icomoon/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_bones.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_checkup.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_dermatology.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_dryer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_big_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_img_sm_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_trainer_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_trainer_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_trainer_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_veterinarian.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/dogger_veterinary.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/images/person_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/aos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/bootstrap-datepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery-migrate-3.0.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.countdown.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.fancybox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.stellar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/jquery.sticky.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/mediaelement-and-player.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/js/typed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/prepros-6.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/_site-base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/_site-blocks.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/_site-navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_spinners.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_toasts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_deprecate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_stretched-link.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/bootstrap/vendor/_rfs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogger/single.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/summer_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/avataaars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/circus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/safe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/submarine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/avataaars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/circus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/safe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/submarine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/contact_me.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/thankyou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +77,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1duRWo4aNbL0ooub5Be1K7QU6sT" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -215,11 +86,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/delivery/static/delivery" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -230,6 +103,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\summer_project\delivery\static\delivery" />
       <recent name="D:\summer_project\delivery\templates\delivery" />
     </key>
   </component>
@@ -269,6 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593273025740</updated>
       <workItem from="1593273027247" duration="7691000" />
+      <workItem from="1593286085946" duration="5227000" />
     </task>
     <task id="LOCAL-00001" summary="Basic UI and Registration Pages are done.">
       <created>1593285217772</created>
@@ -288,11 +163,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -313,9 +195,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="107" key="#summer_project/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593286006499" />
-    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1593285951364">
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1593286413959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="275" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593285951364" />
+    <state x="741" y="275" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593286413959" />
   </component>
 </project>
