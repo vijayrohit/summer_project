@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b30cd96-ef03-4123-9940-83c415d52c36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dogger/css/aos.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap-datepicker.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dogger/css/bootstrap.min.css" beforeDir="false" />
@@ -220,7 +219,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/delivery/templates/delivery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -269,7 +268,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593273025740</updated>
-      <workItem from="1593273027247" duration="7079000" />
+      <workItem from="1593273027247" duration="7691000" />
     </task>
     <task id="LOCAL-00001" summary="Basic UI and Registration Pages are done.">
       <created>1593285217772</created>
@@ -310,5 +309,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593279051323" />
+    <state x="669" y="107" key="#summer_project" timestamp="1593286006499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="107" key="#summer_project/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593286006499" />
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1593285951364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="275" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593285951364" />
   </component>
 </project>
