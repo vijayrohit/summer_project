@@ -19,6 +19,15 @@
     </head>
 
     <body id="page-top">
+    {% if messages %}
+        {% for message in messages %}
+            <div class="page-section">
+                <div class="container">
+                    <h5>{{ message }}</h5>
+                </div>
+            </div>
+        {% endfor %}
+    {% endif %}
     {% block content %}{% endblock content %}
 
         <footer class="footer text-center">

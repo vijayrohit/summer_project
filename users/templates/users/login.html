@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'del-home' %}">Home</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'login' %}">Login</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'register' %}">Register</a></li>
                     </ul>
                 </div>
             </div>
@@ -23,9 +23,9 @@
                     {% csrf_token %}
                     <h1 class="h3 mb-3 font-weight-normal">Join Us Today</h1>
                     {{ form|crispy }}
-                    <button class="btn btn-xl btn-outline-light" type="submit"> Sign Up </button>
+                    <button class="btn btn-xl btn-outline-light" type="submit"> Login </button>
                 </form>
-                <p>Have an Account? <a href="{% url 'login' %}" style='color:black;'> Sign In Now!</a></p>
+                <p>Do not have an Account? <a href="{% url 'register' %}" style="color: black;"> Sign Up Now!</a></p>
             </div>
         </section>
 
