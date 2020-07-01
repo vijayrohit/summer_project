@@ -25,47 +25,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b30cd96-ef03-4123-9940-83c415d52c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/summer_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/avataaars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cabin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/circus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/safe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/submarine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery/static/delivery/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/avataaars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/cabin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/cake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/circus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/safe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio/submarine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/contact_me.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/mail/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/logout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/thankyou.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +119,8 @@
       <option name="presentableId" value="Default" />
       <updated>1593273025740</updated>
       <workItem from="1593273027247" duration="7691000" />
-      <workItem from="1593286085946" duration="5227000" />
+      <workItem from="1593286085946" duration="6366000" />
+      <workItem from="1593441727290" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="Basic UI and Registration Pages are done.">
       <created>1593285217772</created>
@@ -183,10 +160,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Basic UI and Registration Pages are done." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593273042941">
+    <state x="553" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593441741471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593273042941" />
+    <state x="553" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593441741471" />
     <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593279051323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

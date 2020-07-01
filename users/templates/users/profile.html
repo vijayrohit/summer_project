@@ -1,8 +1,9 @@
 {% extends 'delivery/base.html' %}
+{% load crispy_forms_tags %}
 {% block content %}
     <section class="page-section bg-primary text-white mb-0" id="register">
             <div class="container">
-                <p>Want to login again? <a href="{% url 'login' %}" style="color: black;"> Login!</a></p>
+                <p>{{ user.username }}</p>
             </div>
         </section>
 
