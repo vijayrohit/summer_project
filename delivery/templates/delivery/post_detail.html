@@ -1,0 +1,20 @@
+{% extends "delivery/base.html" %}
+{% block content %}
+<section class="page-section bg-primary text-white mb-0" id="register">
+      <div class="container">
+            <h2 class="page-section-heading text-center text-uppercase text-white">Orders</h2>
+            <h2 style="color: white;">Name :  {{ object.name }}</h2>
+            <small class="text-muted">Date:  {{ object.date_posted|date:"F d, Y" }}</small>
+            {% if user.is_staff %}
+            <div>
+                <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'post-update' object.id %}">Update</a>
+                <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'post-delete' object.id %}">Delivered</a>
+            </div>
+            {% endif %}
+            <h2 class="article-title">Mobile : {{ object.mobile }}</h2>
+            <p class="article-content">Order Items : {{ object.order_list }}</p>
+            <p class="article-content">Address : {{ object.address }}</p>
+      </div>
+</section>
+
+{% endblock content %}
