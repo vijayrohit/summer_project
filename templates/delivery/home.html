@@ -1,0 +1,74 @@
+{% extends "delivery/base.html" %}
+{% load static %}
+{% block content %}
+        <header class="masthead bg-primary text-white text-center" id="#home">
+            <div class="container d-flex align-items-center flex-column">
+
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading text-uppercase mb-0">Delivery App Prototype</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+                <p class="masthead-subheading font-weight-light mb-0">Set - Order - Delivered</p>
+            </div>
+        </header>
+        {% if user.is_staff %}
+        {% if not posts %}
+        <section class="page-section bg-primary text-white mb-0" id="orders">
+          <div class="container">
+                <h2 class="page-section-heading text-center text-uppercase text-white">Orders</h2>
+                <h3>No Orders as of now!</h3>
+          </div>
+        </section>
+        {% else %}
+        <section class="page-section bg-primary text-white mb-0" id="orders">
+          <div class="container">
+                <h2 class="page-section-heading text-center text-uppercase text-white">Orders</h2>
+                <br>
+                {% for post in posts %}
+                <h2 style="color: white;">Name :  {{ post.name }}</h2>
+                <small class="text-muted">Date:  {{ post.date_posted|date:"F d, Y" }}</small>
+                {% if user.is_staff %}
+                <div>
+                    <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'post-update' post.id %}">Update</a>
+                    <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'post-delete' post.id %}">Delivered</a>
+                </div>
+                {% endif %}
+                <h2 class="article-title">Mobile : {{ post.mobile }}</h2>
+                <p class="article-content">Order Items : {{ post.order_list }}</p>
+                <p class="article-content">Address : {{ post.address }}</p>
+                <br>
+                {% endfor %}
+          </div>
+        </section>
+
+        {% endif %}
+        {% endif %}
+        <section class="page-section bg-primary text-white mb-0" id="register">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">Employee Register</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="col-lg-4 ml-auto"><p class="lead">Get food delivered to your doorstep now!</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">Make sure you are registered! If not register right away</p></div>
+                </div>
+                <!-- About Section Button-->
+                <div class="text-center mt-4">
+                    <a class="btn btn-xl btn-outline-light" href="{% url 'register' %}">
+                        Register Now!
+                    </a>
+                </div>
+            </div>
+        </section>
+{% endblock content %}
