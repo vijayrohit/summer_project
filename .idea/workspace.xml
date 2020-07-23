@@ -25,29 +25,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b30cd96-ef03-4123-9940-83c415d52c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/migrations/0002_auto_20200717_1153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/migrations/0003_auto_20200717_1155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/migrations/0004_remove_post_author.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/templates/delivery/post_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/templates/delivery/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delivery/templates/delivery/post_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/avataaars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/circus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/safe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/img/portfolio/submarine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/mail/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/mail/contact_me.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/assets/mail/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/delivery/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/avataaars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/circus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/img/portfolio/submarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/contact_me.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/assets/mail/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/static/delivery/js/scripts.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/templates/delivery/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/templates/delivery/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/delivery/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/logout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/thankyou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +95,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/delivery/static/delivery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/delivery/templates/delivery" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +105,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\v2\summer_project" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\v2\summer_project\delivery\templates\delivery" />
       <recent name="D:\summer_project\delivery\static\delivery" />
       <recent name="D:\summer_project\delivery\templates\delivery" />
     </key>
@@ -121,6 +152,7 @@
       <workItem from="1593273027247" duration="7691000" />
       <workItem from="1593286085946" duration="6366000" />
       <workItem from="1593441727290" duration="4593000" />
+      <workItem from="1595001025590" duration="9171000" />
     </task>
     <task id="LOCAL-00001" summary="Basic UI and Registration Pages are done.">
       <created>1593285217772</created>
@@ -176,5 +208,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="741" y="275" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1593286413959" />
+    <state x="2720" y="293" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1595002564605">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2720" y="293" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595002564605" />
   </component>
 </project>
