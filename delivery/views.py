@@ -22,17 +22,18 @@ class PostListView(ListView):
     model = Post
     template_name = 'delivery/home.html'  # <app>/<model>_<viewtype>.html
     context_object_name = 'posts'
-    ordering = ['-date_posted']
+    ordering = ['-cateringDate']
 
 
-class PostDetailView(DetailView):
+class PostDetailView(LoginRequiredMixin, DetailView):
+    model = Post
+    #fields = ['orderSource','houseAccount', 'name', 'address', 'mobile', 'deliverydriver', 'deliverytime', 'specialInstruction', 'cateringAmount', 'deliveryFee', 'tips', 'salesTax', 'customerFeedBack', 'onTime', 'deliveryStatus', 'customerPaymentStatus', 'employeePaymentStatus', 'cateringDate', 'commissionAmount', 'commissionStatus', 'estimatedDelivery']
+
+
+class PostCreateView(LoginRequiredMixin, CreateView):
     model = Post
 
-
-class PostCreateView(CreateView):
-    model = Post
-
-    fields = ['name', 'mobile', 'address', 'order_list']
+    fields = ['orderSource','houseAccount', 'name', 'address', 'mobile', 'deliverydriver', 'deliverytime', 'specialInstruction', 'cateringAmount', 'deliveryFee', 'tips', 'salesTax', 'customerFeedBack', 'onTime', 'deliveryStatus', 'customerPaymentStatus', 'employeePaymentStatus', 'cateringDate', 'commissionAmount', 'commissionStatus', 'estimatedDelivery']
 
     def form_valid(self, form):
         form.instance.author = self.request.user
@@ -41,7 +42,7 @@ class PostCreateView(CreateView):
 
 class PostUpdateView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
     model = Post
-    fields = ['name', 'order_list']
+    fields = ['orderSource','houseAccount', 'name', 'address', 'mobile', 'deliverydriver', 'deliverytime', 'specialInstruction', 'cateringAmount', 'deliveryFee', 'tips', 'salesTax', 'customerFeedBack', 'onTime', 'deliveryStatus', 'customerPaymentStatus', 'employeePaymentStatus', 'cateringDate', 'commissionAmount', 'commissionStatus', 'estimatedDelivery']
 
     def form_valid(self, form):
         return super().form_valid(form)

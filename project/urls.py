@@ -18,6 +18,10 @@ from django.urls import path,include
 from django.contrib.auth import views as auth_views
 from users import views as users_views
 
+admin.site.site_header = 'My project'                    # default: "Django Administration"
+admin.site.index_title = 'Features area'                 # default: "Site administration"
+admin.site.site_title = 'HTML title from adminsitration' # default: "Django site admin"
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('delivery.urls')),

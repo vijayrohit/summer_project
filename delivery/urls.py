@@ -8,9 +8,10 @@ from .views import (
     PostDeleteView
 )
 from . import views
-
+from django.contrib import admin
 
 urlpatterns = [
+    path('admin/', admin.site.urls, name="admin"),
     path('', PostListView.as_view(), name='del-home'),
     path('post/<int:pk>/', PostDetailView.as_view(), name='post-detail'),
     path('post/new/', PostCreateView.as_view(), name='post-create'),
